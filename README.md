@@ -1,6 +1,6 @@
 # Static Website Example
 
-This is the codebase for creating resources for hosting a static website using _AWS S3_ and _AWS CloudFront_ and _terraform_
+This is the codebase for creating resources for hosting a static website using _AWS S3_, _AWS CloudFront_ and _terraform_
 
 The module creates a fully functional static website.
 
